@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771123687117",
+    "project_id": "firstproject-b7375",
+    "storage_bucket": "firstproject-b7375.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771123687117:android:fa3410e9bf0f911bc88384",
+        "android_client_info": {
+          "package_name": "com.journaldev.recyclerviewcardview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771123687117-oio9mrlr4735huldh2nsq4lvv3fomcmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcdrr7UoSWHTMAVW70U46lrRjDUYisdUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771123687117-oio9mrlr4735huldh2nsq4lvv3fomcmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecyclerViewCardView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Registor">Registor</string>
+    <string name="PhoneHint">Enter phone number</string>
+    <string name="PasswordHint">Enter password</string>
+    <string name="UserNameHint">Enter username</string>
+    <string name="FullNameHint">Enter Full Name</string>
+    <string name="LoginButton">Login</string>
+</resources>
